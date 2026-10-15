@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main (lab03)",
+            "request": "launch",
+            "mainClass": "lab03.Main",
+            "args": "dictionary.txt",
+            "console": "integratedTerminal"
+        }
+    ]
+}
